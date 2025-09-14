@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Motorcycle",
+        "brand": "Yahamaha",
+        "year": "2025",
+        "price": "350000"
+    },
+    {
+        "name": "Toyota premio",
+        "brand": "Toyota",
+        "year": "2022",
+        "price": "1500000"
+    },
+    {
+        "name": "Toyota xfilder",
+        "brand": "Toyota",
+        "year": "2019",
+        "price": "1200000"
+    },
+    {
+        "name": "honda livo",
+        "brand": "honda",
+        "year": "2024",
+        "price": "150000"
+    }
+]
